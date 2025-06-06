@@ -29,7 +29,7 @@ This is my solution to the [Frontend Mentor - Blog preview card challenge](https
 
 ## Author
 
-- GitHub: [YourUsername](https://github.com/audreylyn)
+- GitHub: [Audreylyn Moraña](https://github.com/audreylyn)
 
 ## Acknowledgments
 
